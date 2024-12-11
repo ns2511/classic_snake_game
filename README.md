@@ -1,11 +1,31 @@
-# classic_snake_game
-this is a classic snake game that i developed in my 2nd year of computer science and engineering.
+## Snake Game
 
-Instructions to run:
+This is a simple Snake Game built using Java. It features a GUI where you can control the snake, eat food, and grow while avoiding obstacles or hitting the edges.
 
-Open terminal:
-First command: javac GameFrame.java GamePanel.java SnakeGame.java
+### Download the game (Windows only)
 
-Second command: java GameFrame GamePanel SnakeGame
+[Download](https://github.com/ns2511/snakegame).
 
-Program will then open.
+### How to Run the Game
+
+1. **Open Terminal:**
+
+   Run the following commands in sequence:
+
+   ```bash
+   javac GameFrame.java GamePanel.java SnakeGame.java
+   java GameFrame GamePanel SnakeGame
+
+## 🛠️ Technologies Used
+- Java Swing
+- Java Graphics
+- Java Input Handling
+
+## 🧑‍💻 Author
+- **Naresh**
+
+If you have any questions or suggestions, feel free to contact me via [GitHub](https://github.com/ns2511).
+
+---
+
+Enjoy using **Around-The-World**! 🌍
