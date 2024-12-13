@@ -4,7 +4,7 @@ This is a simple Snake Game built using Java. It features a GUI where you can co
 
 ### Download the game (Windows only)
 
-[Download](https://github.com/ns2511/snakegame).
+[Download](https://github.com/ns2511/classic_snake_game/releases/download/untagged-32c84a73d77cb4610089/ClassicSnakeGame.exe).
 
 ### How to Run the Game
 
