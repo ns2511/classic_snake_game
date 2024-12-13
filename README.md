@@ -28,4 +28,4 @@ If you have any questions or suggestions, feel free to contact me via [GitHub](h
 
 ---
 
-Enjoy using **Around-The-World**! 🌍
+Enjoy playing **Snake Game**! 🌍
